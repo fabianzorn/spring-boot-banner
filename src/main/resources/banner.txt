@@ -1,0 +1,8 @@
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+${AnsiColor.CYAN} Version:  ${spring-boot.version}
